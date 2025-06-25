@@ -19,6 +19,6 @@ public class Item {
     @Override
     public String toString() {
         return name; 
-        // Just Checking the Pull Request Changes
+        // Just Checking the Pull Request Changes.
     }
 }
