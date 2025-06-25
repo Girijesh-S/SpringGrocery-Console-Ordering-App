@@ -63,6 +63,6 @@ Welcome to **SpringGrocery**, a console-based organic store application built in
    javac Main.java Category.java Item.java OrderItem.java UserDetails.java
 
 4. **Run the program**:
-      - 'java Main.java'
+      'java Main.java'
 
 
