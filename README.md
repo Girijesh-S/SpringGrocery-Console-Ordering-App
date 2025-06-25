@@ -1,6 +1,7 @@
 # 🛒 SpringGrocery - Organic Store (Java Console App)
 
-Welcome to **SpringGrocery**, a console-based organic store application built in Java. This app simulates a home delivery system where customers can place orders for organic products and view billing and delivery details.
+Welcome to **SpringGrocery**, a console-based organic store application built in Java.
+This app simulates a home delivery system where customers can place orders for organic products and view billing and delivery details.
 
 ---
 
@@ -35,7 +36,7 @@ Welcome to **SpringGrocery**, a console-based organic store application built in
 
 - **Language**: Java
 - **Runtime**: Console application (No GUI)
-- **Collections Used**: `List`, `ArrayList`, `Scanner`, etc.
+- **Collections Used**: `List`, `ArrayList`, etc.
 
 ---
 
@@ -55,5 +56,8 @@ Welcome to **SpringGrocery**, a console-based organic store application built in
    - `OrderItem.java`
    - `UserDetails.java`
 3. **Compile the program**:
-   ```bash
+   --PowerShell
    javac Main.java Category.java Item.java OrderItem.java UserDetails.java
+4. **Run the program**:
+   java Main.java    
+
